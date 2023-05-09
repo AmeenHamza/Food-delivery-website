@@ -1,0 +1,32 @@
+body {
+    background-color: red;
+}
+
+/* Navbar */
+#navbar{
+    flex-direction: column;
+}
+
+
+
+
+
+
+
+
+
+/* Services */
+.services{
+    padding: 4rem 1rem;
+    display: flex;
+    border: 2px solid white;
+    margin: 14px;
+}
+.box{
+    padding: 0px;
+}
+.box img{
+    height: 31vh;
+    width: 26vw;
+    border-radius: 220px;
+}
